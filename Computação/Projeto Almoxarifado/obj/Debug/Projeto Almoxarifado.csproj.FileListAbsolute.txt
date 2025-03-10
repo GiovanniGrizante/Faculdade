@@ -1,0 +1,18 @@
+C:\Users\Giovanni\source\repos\Projeto Almoxarifado\Projeto Almoxarifado\bin\Debug\Projeto Almoxarifado.exe.config
+C:\Users\Giovanni\source\repos\Projeto Almoxarifado\Projeto Almoxarifado\bin\Debug\Projeto Almoxarifado.exe
+C:\Users\Giovanni\source\repos\Projeto Almoxarifado\Projeto Almoxarifado\bin\Debug\Projeto Almoxarifado.pdb
+C:\Users\Giovanni\source\repos\Projeto Almoxarifado\Projeto Almoxarifado\obj\Debug\Projeto Almoxarifado.csprojAssemblyReference.cache
+C:\Users\Giovanni\source\repos\Projeto Almoxarifado\Projeto Almoxarifado\obj\Debug\Projeto_Almoxarifado.Form1.resources
+C:\Users\Giovanni\source\repos\Projeto Almoxarifado\Projeto Almoxarifado\obj\Debug\Projeto_Almoxarifado.Properties.Resources.resources
+C:\Users\Giovanni\source\repos\Projeto Almoxarifado\Projeto Almoxarifado\obj\Debug\Projeto Almoxarifado.csproj.GenerateResource.cache
+C:\Users\Giovanni\source\repos\Projeto Almoxarifado\Projeto Almoxarifado\obj\Debug\Projeto Almoxarifado.exe
+C:\Users\Giovanni\source\repos\Projeto Almoxarifado\Projeto Almoxarifado\obj\Debug\Projeto Almoxarifado.pdb
+C:\Users\Giovanni\Desktop\TUDO\Arquivos\Projeto Almoxarifado\Projeto Almoxarifado\bin\Debug\Projeto Almoxarifado.exe.config
+C:\Users\Giovanni\Desktop\TUDO\Arquivos\Projeto Almoxarifado\Projeto Almoxarifado\bin\Debug\Projeto Almoxarifado.exe
+C:\Users\Giovanni\Desktop\TUDO\Arquivos\Projeto Almoxarifado\Projeto Almoxarifado\bin\Debug\Projeto Almoxarifado.pdb
+C:\Users\Giovanni\Desktop\TUDO\Arquivos\Projeto Almoxarifado\Projeto Almoxarifado\obj\Debug\Projeto Almoxarifado.csprojAssemblyReference.cache
+C:\Users\Giovanni\Desktop\TUDO\Arquivos\Projeto Almoxarifado\Projeto Almoxarifado\obj\Debug\Projeto_Almoxarifado.Form1.resources
+C:\Users\Giovanni\Desktop\TUDO\Arquivos\Projeto Almoxarifado\Projeto Almoxarifado\obj\Debug\Projeto_Almoxarifado.Properties.Resources.resources
+C:\Users\Giovanni\Desktop\TUDO\Arquivos\Projeto Almoxarifado\Projeto Almoxarifado\obj\Debug\Projeto Almoxarifado.csproj.GenerateResource.cache
+C:\Users\Giovanni\Desktop\TUDO\Arquivos\Projeto Almoxarifado\Projeto Almoxarifado\obj\Debug\Projeto Almoxarifado.exe
+C:\Users\Giovanni\Desktop\TUDO\Arquivos\Projeto Almoxarifado\Projeto Almoxarifado\obj\Debug\Projeto Almoxarifado.pdb
